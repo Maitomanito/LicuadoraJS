@@ -28,3 +28,4 @@ if( sonidoLicuadora.paused ){
     sonidoLicuadora.currentTime = 0; /* Reinicia el audio al segundo 0 */
   }
 }
+// //validar
